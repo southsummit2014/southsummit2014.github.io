@@ -1,5 +1,19 @@
+
+
 .header-class {
 	background: url('imagen-portada.jpg'); 
+	background-size:cover;
 	min-height:400px;
 	color:#FFF;
+	text-align:center;
+}
+
+.title {
+	font-size:50px;
+	margin-top:100px;
+}
+
+.email-section {
+	padding-top:40px;
+	text-align:center;
 }
